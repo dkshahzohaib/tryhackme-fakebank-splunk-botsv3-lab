@@ -76,12 +76,11 @@ Visibility across systems is critical
     findings.md
 📸 Screenshots
 
-(Add your screenshots here)
 
 🔗 References
 TryHackMe Offensive Security Intro
 Splunk BOTS v3 Dataset
 🧑‍💻 Author
 
-Your Name
+Syed Zohaib Munir
 Aspiring SOC Analyst | Cybersecurity Enthusiast
